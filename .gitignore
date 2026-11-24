@@ -7,5 +7,3 @@ coverage/
 .env*
 !.env.example
 
-
-.sites-runtime/
