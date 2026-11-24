@@ -44,7 +44,7 @@ export default function Privacy() {
             <p>We collect only the information necessary to fulfill our mission and respond to institutional inquiries:</p>
             <ul className="list-disc pl-6 space-y-2">
               <li>
-                <strong className="text-primary">Contact & Inquiry Information:</strong> The contact form stores your name, email address, optional organization, inquiry type, message, submission reference, and submission time in the site database. This information is used to review and respond to your inquiry. Please do not submit confidential health information.
+                <strong className="text-primary">Contact & Inquiry Information:</strong> The contact form sends your name, email address, optional organization, inquiry type, message, and a submission reference by email to the YTI team through our form-delivery provider (Web3Forms). This information is used to review and respond to your inquiry. Please do not submit confidential health information.
               </li>
               <li>
                 <strong className="text-primary">Philanthropic & Donor Records:</strong> Online giving is not available through this website. Information about any future giving process and its privacy practices will be provided when that process is established.
